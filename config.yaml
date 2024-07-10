@@ -58,8 +58,8 @@ params:
   label:
     title: MycoScaffold
     text: Welcome to Piko
-    lightNavIcon: /uploads/logo-100x130.png
-    darkNavIcon: /uploads/logo-100x130.png
+    lightNavIcon: https://res.cloudinary.com/daa3cj6jz/image/upload/v1720649608/logo-100x130_fvx2hr.png
+    darkNavIcon: https://res.cloudinary.com/daa3cj6jz/image/upload/c_thumb,w_200,g_face/v1717725094/blue-atlas-5000x4000-white-bg_e4iagg.png
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
@@ -93,7 +93,7 @@ params:
     heroCTAPrimaryUrl: "/quote/"
     heroCTASecondaryText: Contact
     heroCTASecondaryUrl: "/contact/"
-    heroCTAImage: "/uploads/water-tower-1-square.jpg"
+    heroCTAImage: https://res.cloudinary.com/daa3cj6jz/image/upload/v1720650676/water-tower-1-square-750X_jo3xwb.webp
     heroCTAImageAltText: "A water tower at dusk with scaffold being built to the top."
     heroBackgroundImage: "/uploads/"
     # Blog Section
@@ -105,7 +105,7 @@ params:
     disableAboutSection: false
     aboutTitle: About
     aboutDescription: 
-    aboutImgUrl: "/uploads/logo-500x649.png"
+    aboutImgUrl: https://res.cloudinary.com/daa3cj6jz/image/upload/v1720650331/blue-atlas-750X_xi5xcq.webp
     aboutContent: At Myco Scaffold, we are not just a business; we are the legacy of a family that has been the backbone of construction projects across Sacramento for three generations. We forge enduring relationships that stand the test of time, much like the structures we help to build. Our clients don't just see us as a provider; they see us as a partner in progress, elevating their projects with meticulous care and an unwavering commitment to safety.
     # Portfolio Section
     disablePortfolioSection: false
@@ -148,16 +148,16 @@ params:
     url: "/quote"
     title: Request a Quote
     description: The best way to start your project is requesting a free quote
-    headerImageUrl: /uploads/headerImageQuote.webp
-    headerImageAltText: "Two people meeting with blueprints on the table and one of them is using a calculator."
+    headerImageUrl: https://res.cloudinary.com/daa3cj6jz/image/upload/v1720648674/quoteFormHeaderImage.webp
+    headerImageAltText: "People meeting with blueprints on the table and one of them is using a calculator."
     PhotoAttrText: Photo by Pixabay
-    PhotoAttrUrl: https://www.pexels.com/photo/three-people-sitting-beside-table-416405/
+    PhotoAttrUrl: https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg
   contactpage:
     name: Quote
     url: "/contact"
     title: Quote
     description: Let's figure this out together
-    headerImageUrl: /uploads/headerImageContact.webp
+    headerImageUrl: https://images.pexels.com/photos/4792479/pexels-photo-4792479.jpeg
     headerImageAltText: 
     PhotoAttrText: Photo by Anete Lusina
     PhotoAttrUrl: https://www.pexels.com/photo/instruments-prepared-for-measurements-in-house-4792479/
