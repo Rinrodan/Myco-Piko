@@ -1,5 +1,5 @@
 ---
-baseURL: https://mycoscaffold.com/
+baseURL: /
 languageCode: en-us
 title: Myco Scaffold
 theme: piko
